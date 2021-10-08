@@ -1,22 +1,5 @@
 ### Hi there 👋
 
-<!--
-**guilhermeOsilva/guilhermeOsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-https://github.com/guilhermeOsilva
-
-
 -🌱 I’m currently learning :
 JavaScript,HTML e CSS
 - ⚡ Fun fact: 
@@ -42,7 +25,8 @@ Gosto muito de café com leite
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = ""><img src=" https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
  <a href = "mailto:guilherme.osilva@bandtec.com.br"> <img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target = "_ blank"> </a>
-!
    
-! [Animação de cobra] https://github.com/guilhermeOsilva/guilhermeOsilva.git) 
+![Snake animation](https://github.com/guilhermeOsilva/guilhermeOsilva/blob/output/github-contribution-grid-snake.svg)
 
+  
+</div>
