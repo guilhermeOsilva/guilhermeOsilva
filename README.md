@@ -7,7 +7,7 @@ Gosto muito de café com leite
 
 ##  eu sou o Guilherme Silva,  um estudante de Analise e desenvolcimento de Sistemas(ADS)!
 <div align="center">
-  <a href="https://https://github.com/guilhermeOsilva/-SITE-INSTITUCIONAL-PI">
+  <a href="https://https://github.com/guilhermeOsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeOsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeOsilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
