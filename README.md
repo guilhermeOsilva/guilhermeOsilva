@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 --🌱 I’m currently learning :
-JavaScript, Java, Docker e python
+JavaScript, Node, Java e Python
 -- ⚡ Fun fact: 
 Gosto muito de café com leite
 
