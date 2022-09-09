@@ -5,7 +5,7 @@ JavaScript, Node, Java e Python
 -- ⚡ Fun fact: 
 Gosto muito de café com leite
 
-##  eu sou o Guilherme Silva,  um estudante de Análise e desenvolvimento de Sistemas(ADS) e Técnico em mecatrônica!
+## Eu sou o Guilherme Silva,  um estudante de Análise e desenvolvimento de Sistemas(ADS) e Técnico em mecatrônica!
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 
   
