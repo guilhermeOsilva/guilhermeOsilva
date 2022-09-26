@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 --🌱 I’m currently learning :
-JavaScript, Node, Java e Python
+JavaScript, Node, Vue e mongodb;
 -- ⚡ Fun fact: 
 Gosto muito de café com leite
 
-## Eu sou o Guilherme Silva,  um estudante de Análise e desenvolvimento de Sistemas(ADS) e Técnico em mecatrônica!
+## Eu sou o Guilherme Silva,  Um Desenvolvedor Back-End e Técnico em mecatrônica!
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 
   
