@@ -9,8 +9,8 @@ Gosto muito de café com leite
 
 ### Apaixonado por tecnologia, venho sempre tentando Aprender mais e mais desse mundo. 
 ### Quero me especializar em tecnologias backend e ser um Bom desenvolvedor de software.
-<div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermeOsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeOsilva&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeOsilva&theme=tokyonight&hide_border=true"/>
+<div align= "center">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeOsilva&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeOsilva&theme=tokyonight&hide_border=true"/>
 </div>
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
