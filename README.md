@@ -7,13 +7,11 @@ Gosto muito de café com leite
 
 ## Eu sou o Guilherme Silva,  Um Desenvolvedor Back-End e Técnico em mecatrônica!
 
-### Apaixonado por tecnologia, venho sempre tentando Aprender mais e mais desse mundo.
+### Apaixonado por tecnologia, venho sempre tentando Aprender mais e mais desse mundo. 
 ### Quero me especializar em tecnologias backend e ser um Bom desenvolvedor de software.
-
-<div align="center">
-  <a href="https://https://github.com/guilhermeOsilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeOsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeOsilva&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermeOsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeOsilva&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeOsilva&theme=tokyonight&hide_border=true"/>
+</div>
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 
