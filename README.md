@@ -8,7 +8,7 @@ Gosto muito de café com leite
 ## Eu sou o Guilherme Silva,  Um Desenvolvedor Back-End e Técnico em mecatrônica!
 
 ### Apaixonado por tecnologia, venho sempre tentando Aprender mais e mais desse mundo.
-### Quero me especializar em tecnologias backend e ser um Bom desenvolvedor de sofware.
+### Quero me especializar em tecnologias backend e ser um Bom desenvolvedor de software.
 
 <div align="center">
   <a href="https://https://github.com/guilhermeOsilva">
