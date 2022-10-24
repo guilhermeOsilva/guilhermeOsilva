@@ -1,10 +1,8 @@
 ### Hi there 👋
 
---🌱 I’m currently learning :
+ I’m currently learning :
 JavaScript, Node, Vue e mongodb;
--- ⚡ Fun fact: 
-Gosto muito de café com leite
-
+⚡ Fun fact: Gosto muito de café <img src="https://img.icons8.com/dusk/64/000000/cafe.png"/>
 ## Eu sou o Guilherme Silva,  Um Desenvolvedor Back-End e Técnico em mecatrônica!
 
 ### Apaixonado por tecnologia, venho sempre tentando Aprender mais e mais desse mundo. 
