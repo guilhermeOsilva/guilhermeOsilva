@@ -6,6 +6,10 @@ JavaScript, Node, Vue e mongodb;
 Gosto muito de café com leite
 
 ## Eu sou o Guilherme Silva,  Um Desenvolvedor Back-End e Técnico em mecatrônica!
+
+Apaixonado por tecnologia, venho sempre tentando Aprender mais e mais desse mundo.
+Quero me especializar em tecnologias backend e ser um Bom desenvolvedor de sofware.
+
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 
   
