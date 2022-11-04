@@ -3,7 +3,7 @@
  I’m currently learning :
 JavaScript, Node, Vue e C#;
 ⚡ Fun fact: Gosto muito de café <img src="https://img.icons8.com/dusk/64/000000/cafe.png"/>
-## Eu sou o Guilherme Silva,  Um Desenvolvedor Back-End
+## Eu sou o Guilherme Silva,  Um Desenvolvedor Back-End e estudante de Ciência Da Computação
 
 ### Apaixonado por tecnologia, venho sempre tentando Aprender mais e mais desse mundo. 
 ### Quero me especializar em tecnologias backend e ser um Bom desenvolvedor de software.
