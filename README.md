@@ -11,7 +11,7 @@ JavaScript, Node, Vue e C#;
 ##
 
 <div align= "center">
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeOsilva&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeOsilva&theme=tokyonight&hide_border=true"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeOsilva&layout=compact&langs_count=7&theme=dark&hide_border=true"/><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeOsilva&theme=dark&hide_border=true"/>
 </div>
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
