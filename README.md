@@ -7,7 +7,7 @@ JavaScript, Node, Vue e C#;
 
 ## Eu sou o Guilherme Silva,  Um Desenvolvedor Back-End e estudante de Ciência Da Computação. Quero me especializar em tecnologias backend e ser um Bom desenvolvedor de software.
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
+<br>
 <details>
  
 <summary>📈 My GitHub Stats</summary>
