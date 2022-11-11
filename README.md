@@ -2,6 +2,7 @@
 
  I’m currently learning :
 JavaScript, Node, Vue e C#;
+<br>
 ⚡ Fun fact: Gosto muito de café <img src="https://img.icons8.com/dusk/64/000000/cafe.png"/>
 ##
 
