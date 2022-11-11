@@ -5,12 +5,8 @@ JavaScript, Node, Vue e C#;
 ⚡ Fun fact: Gosto muito de café <img src="https://img.icons8.com/dusk/64/000000/cafe.png"/>
 ##
 
-## Eu sou o Guilherme Silva,  Um Desenvolvedor Back-End e estudante de Ciência Da Computação
+## Eu sou o Guilherme Silva,  Um Desenvolvedor Back-End e estudante de Ciência Da Computação. Quero me especializar em tecnologias backend e ser um Bom desenvolvedor de software.
 
-### Apaixonado por tecnologia, venho sempre tentando Aprender mais e mais desse mundo. 
-### Quero me especializar em tecnologias backend e ser um Bom desenvolvedor de software.
-
-##
 
 <div align= "center">
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeOsilva&layout=compact&langs_count=7&theme=dark&hide_border=true"/><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeOsilva&theme=dark&hide_border=true"/>
