@@ -8,16 +8,16 @@ JavaScript, Node, Vue e C#;
 ## Eu sou o Guilherme Silva,  Um Desenvolvedor Back-End e estudante de Ciência Da Computação. Quero me especializar em tecnologias backend e ser um Bom desenvolvedor de software.
 
 <br>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <details>
  
 <summary>📈 My GitHub Stats</summary>
 <br />
 
 <img height="150em"  width="370m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeOsilva&layout=compact&langs_count=7&theme=dark&hide_border=true"/> 
- <br>
-<img height="150em"  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeOsilva&theme=dark&hide_border=true"/>
+<img height="150em" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeOsilva&theme=dark&hide_border=true"/>
 </details>
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 <details>
  <summary>📈 My Profile Stats</summary>
