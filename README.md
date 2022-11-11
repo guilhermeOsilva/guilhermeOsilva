@@ -15,6 +15,7 @@ JavaScript, Node, Vue e C#;
 <br />
 
 <img height="150em"  width="370m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeOsilva&layout=compact&langs_count=7&theme=dark&hide_border=true"/> 
+ <br>
 <img height="150em"  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeOsilva&theme=dark&hide_border=true"/>
 </details>
 
