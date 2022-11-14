@@ -1,6 +1,7 @@
 ### Hi there 👋
-#### I’m currently learning : JavaScript, Node, Vue e C#;
-#### ⚡ Fun fact: Gosto muito de café 
+#### ⚡ I’m currently learning : JavaScript, Node, Vue e C#;
+#### ⚡ next steps : pós em Engenharia De Software;
+#### ⚡ Fun fact: Gosto muito de café;
 
 ##
 
