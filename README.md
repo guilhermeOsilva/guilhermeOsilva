@@ -6,7 +6,7 @@
 
 ##
 
-## Eu sou o Guilherme Silva,  Um Desenvolvedor Back-End e estudante de Ciência Da Computação. 
+## Eu sou o Guilherme Silva,  Um Desenvolvedor Back-End e estudante de Engenharia da Computação. 
 
 <br>
 <details>
@@ -69,7 +69,7 @@
 
 
 [instagram]: https://www.instagram.com/oguiih_henrii
-[linkedin]: https://www.linkedin.com/in/guilherme-henrique-oliveira-silva-g1201bh2/
+[linkedin]: https://www.linkedin.com/in/guilherme-henrique-oliveira-silva-g1201bh2/](https://www.linkedin.com/in/guilherme-silvah3nol1/
 [mail]: mailto:guiilherme.oliver.sillva@gmail.com
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
