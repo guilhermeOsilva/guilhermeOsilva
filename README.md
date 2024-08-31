@@ -13,7 +13,7 @@
 <summary>📈 My GitHub Stats</summary>
 <br />
 
-<img height="300em"  width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeOsilva&langs_count=10&theme=dark&hide_border=true"/> 
+<img height="300em"  width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeOsilva&langs_count=12&theme=dark&hide_border=true"/> 
 <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeOsilva&theme=dark&hide_border=true" align="right"/>
 </details>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
