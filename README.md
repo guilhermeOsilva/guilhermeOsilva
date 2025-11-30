@@ -5,7 +5,7 @@
 
 ##
 
-## Eu sou o Guilherme Silva,  Um Desenvolvedor Back-End/Power Platform e estudante de Engenharia da Computação. 
+## Eu sou o Guilherme Silva,  Um Desenvolvedor Back-End/Power Platform. 
 
 <br>
 <details>
